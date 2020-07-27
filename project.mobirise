@@ -41,7 +41,20 @@
     "uniqCompNum": 6,
     "versionPublish": "5.0.16",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "cssOptimize": true,
+    "lazyLoad": true,
+    "lazyType": "blur",
+    "favicon": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
