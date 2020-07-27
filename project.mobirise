@@ -477,7 +477,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "color": "#ff6666"
+              "color": "#333333"
             }
           },
           "_name": "header3",
